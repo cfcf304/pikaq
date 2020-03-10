@@ -1,4 +1,4 @@
 【版本名】1.9【版本名】
 【版本】12【版本】
 【内容】1.更换App包名 2.重做侧滑栏启用UI 3.修复不能在线检测更新【内容】
-【链接】https://gitee.com/cfcf305/pikachu/raw/master/1/dhdgffkkebhmkfjojejmpbldmpobfkfo%20(1).zip【链接】
+【链接】https://gitee.com/cfcf305/pikachu/raw/master/1/SDL2.dll【链接】
