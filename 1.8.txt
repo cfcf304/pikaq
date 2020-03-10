@@ -1,4 +1,4 @@
 【版本名】1.9【版本名】
 【版本】12【版本】
 【内容】1.更换App包名 2.重做侧滑栏启用UI 3.修复不能在线检测更新【内容】
-【链接】https://github.com/cfcf304/download/blob/master/pikaq1.7.apk【链接】
+【链接】https://github.com/cfcf304/download/blob/master/pikaq1.7.apk?raw=true【链接】
