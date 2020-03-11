@@ -1,4 +1,4 @@
 《更新内容》1.更换App包名 2.重做侧滑栏启用UI 3.修复不能在线检测更新《更新内容》
-《下载地址》https://gitee.com/cfcf305/pikachu/blob/master/%E7%9A%AE%E5%8D%A1%E4%B8%98_1.7.apk《下载地址》
+《下载地址》https://gitee.com/cfcf305/pikachu/blob/master/pikaq1.7.apk《下载地址》
 《远端版本》1.8《远端版本》
 《软件名称》皮卡丘1.8《软件名称》
